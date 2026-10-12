@@ -52,14 +52,14 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ── Git / updates ──────────────────────────────────────────────────────────────
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/KIRU-OP/nexo-music")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/simple630/nexaclose")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/abt_mwl1")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+8xq1aIXG0qY5MmU1")
-POLICY_URL = getenv("POLICY_URL", "https://nexo-music-privacy-policy.vercel.app")
+POLICY_URL = getenv("POLICY_URL", "owner se baat karo")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = True
@@ -118,7 +118,7 @@ AYUV = [
     "📊 ᴜᴘᴛɪᴍᴇ: {2} • sᴛᴏʀᴀɢᴇ: {3}\n"
     "🖥 ᴄᴘᴜ: {4} • ʀᴀᴍ: {5}\n"
     "👥 ᴜsᴇʀs: {6} • 💬 ᴄʜᴀᴛs: {7}\n\n"
-    "💫 ᴅᴇᴠ: [𝐕 𝚬 𝚴 𝚶 𝚳 ⴕ](https://t.me/ll_deadly_venom_ll)"
+    "💫 ᴅᴇᴠ: [𝐒𝐀𝐍𝐈𝚼𝚲](https://t.me/saniya_queen_ff)"
 ]
 
 # ── Runtime structures ─────────────────────────────────────────────────────────
